@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587737551921",
+    "project_id": "atelier4-p-messous-iir5g-12e08",
+    "storage_bucket": "atelier4-p-messous-iir5g-12e08.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587737551921:android:0cb9e17efcb267aea53110",
+        "android_client_info": {
+          "package_name": "com.produitsapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTA_U0CAHaM8ZRp2Jg-9bje2SjKMbXyYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
